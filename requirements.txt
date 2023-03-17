@@ -1,0 +1,4 @@
+pypdf
+tiktoken
+openai
+streamlit
